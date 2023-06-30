@@ -117,8 +117,8 @@ To complete this project, you will need the following: <br>
   - Account Settings, Account Termination <br>
   <p align="center">
     <img width="600" src="quicksight/termination.png">
-  </p>
- - confirm<br>
+  </p><br>
+ - Clean up your S3 Buckets aswell <br>
 
 
 

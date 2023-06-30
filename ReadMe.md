@@ -25,9 +25,9 @@ To complete this project, you will need the following: <br>
   
 - leave the rest to default and click Create Bucket<br>
 <b>step 4 - upload Content</b>
-- Replace your Bucket Name in manifest.txt file<br>
+- Replace your Bucket Name in manifest.json file<br>
 <p align="center">
-  <img width="600" src="">
+  <img width="600" src="quicksight/s3 upload.png">
 </p>
 <b> Step 5 -  Add bucket Policy</b>
 ```diff
@@ -57,62 +57,62 @@ To complete this project, you will need the following: <br>
   "arn:aws:s3:::your-bucket-name/*" </b><br>
   <b>Step 6 - Open Quicksight in a new Tab</b><br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/signup.png">
   </p>
   - Sign up for free trail <br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/enteerprise.png">
   </p>
   - Enter you Details<br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/account name.png">
   </p>
   - Enable IAM and S3 Roles<br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/s3 role.png">
   </p>
 
   <b>step 7 - Quicksight Dashborad</b>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/dashboard.png">
   </p>
   - Navigate to datasets<br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/dataset.png">
   </p>
   - Click on S3<br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/s3 link.png">
   </p>
   - Visulize <br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/finsih.png">
   </p>
   - Interactive Sheet<br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/interactive.png">
   </p>
-  - Drag brand in to sheet 1
+  - Drag brand into sheet 1
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/brand.png">
   </p>
   - Sort the data based on your metric<br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/sort.png">
   </p>
-  - I am sorting the data to find the highest selling brand <br>
+  - I am sorting the data to find the highest-selling brand <br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/decending.png">
   </p>
-  - Play around to create the optimal dashbord <br>
+  - Play around to create the optimal dashboard <br>
   <b>Step 8 - Remember to Cleanup to avoid charges</b>
   - Click the top right icon, select manage quicksight<br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/manage.png">
   </p>
   - Account Settings, Account Termination <br>
   <p align="center">
-    <img width="600" src="">
+    <img width="600" src="quicksight/termination.png">
   </p>
  - confirm<br>
 

@@ -63,6 +63,7 @@ To complete this project, you will need the following: <br>
     <img width="600" src="quicksight/signup.png">
   </p>
   - Sign up for free trial <br>
+  
   <p align="center">
     <img width="600" src="quicksight/enterprise.png">
   </p>

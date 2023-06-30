@@ -26,7 +26,7 @@ To complete this project, you will need the following: <br>
 - leave the rest to default and click Create Bucket<br>
 
 <b>step 4 - upload Content</b>
-- Replace your Bucket Name in manifest.json file<br>
+- Replace your Bucket Name in the manifest.json file<br>
 <p align="center">
   <img width="600" src="quicksight/s3 upload.png">
 </p>

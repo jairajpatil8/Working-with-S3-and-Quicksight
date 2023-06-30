@@ -57,13 +57,14 @@ To complete this project, you will need the following: <br>
 <br>
 - <b> Remember to replace your Bucket Name in "arn:aws:s3:::your-bucket-name",
   "arn:aws:s3:::your-bucket-name/*" </b><br>
+  
   <b>Step 6 - Open Quicksight in a new Tab</b><br>
   <p align="center">
     <img width="600" src="quicksight/signup.png">
   </p>
-  - Sign up for free trail <br>
+  - Sign up for free trial <br>
   <p align="center">
-    <img width="600" src="quicksight/enteerprise.png">
+    <img width="600" src="quicksight/enterprise.png">
   </p>
   - Enter you Details<br>
   <p align="center">

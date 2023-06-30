@@ -30,7 +30,7 @@ To complete this project, you will need the following: <br>
 <p align="center">
   <img width="600" src="quicksight/s3 upload.png">
 </p>
-<b> Step 5 -  Add bucket Policy</b>
+<b> Step 5 -  Add bucket Policy</b> <br>
 ```diff
 {
   "Version": "2012-10-17",

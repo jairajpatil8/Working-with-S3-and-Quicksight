@@ -24,6 +24,7 @@ To complete this project, you will need the following: <br>
 - Select your Region<br>
   
 - leave the rest to default and click Create Bucket<br>
+
 <b>step 4 - upload Content</b>
 - Replace your Bucket Name in manifest.json file<br>
 <p align="center">
